@@ -1,0 +1,14 @@
+Package: geneplast.data.orthodb.v101
+Type: Package
+Title: Input data for the geneplast package
+Version: 0.1.0
+Author: Leonardo RS Campos, Rodrigo Dalmolin, Mauro Castro.
+Maintainer: Leonardo RS Campos <leofields@gmail.com>, Rodrigo Dalmolin <dalmolin_r@yahoo.com.br>
+Description: The package geneplast.data.orthodb.v101 contains input data used in the analysis pipelines available in the geneplast package.
+License: Artistic-2.0
+biocViews: AnnotationData, FunctionalAnnotation
+Encoding: UTF-8
+LazyData: true
+LazyLoad: yes
+NeedsCompilation: no
+RoxygenNote: 7.0.2
