@@ -19,7 +19,7 @@
   }
   \item sspids. A data.frame with species identifiers.
   \itemize{
-     \item ssp_id. Species identifier. Same as NCBI taxoxnomy identifier.
+     \item ssp_id. Species identifier. Same as NCBI taxonomy identifier.
      \item ssp_name. Name of the species.
      \item domain. Species domain.
   }
