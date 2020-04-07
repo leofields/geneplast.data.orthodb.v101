@@ -8,7 +8,8 @@
 \alias{sspids}
 \alias{phyloTree}
 \title{Data package used in evolutionary root inference reconstruction containing four objects derived from the OrthoDB database, release 10.1}
-\format{Dataset with cogids, cogdata, sspids, phyloTree.
+\format{
+Dataset with cogids, cogdata, sspids, phyloTree.
 \itemize{
   \item cogids. A data.frame with 406503 COG IDs.
   \item cogdata. A data.frame with COG to protein mapping.
@@ -27,7 +28,8 @@
   \itemize{
     \item Phylogenetic tree with 1258 tips and 719 internal nodes describing relations between all Eukaryotes listed in the 'sspids' object.
   }
-}}
+}
+}
 \source{
 \url{https://www.orthodb.org/}
 }
